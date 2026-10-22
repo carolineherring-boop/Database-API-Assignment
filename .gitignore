@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+
+# Local scratch files that held credentials
+Assignment-6-API.py
+Database-API-Assignment.py
